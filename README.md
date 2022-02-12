@@ -5,7 +5,7 @@
 - 💻 I’m a C++ & C# Developer.
 - 🔭 I’m currently doing no projects due to exams.
 - 🌱 I’m currently learning Web Development.
-- 📫 Reach me on Discord: Caffeine.js#1111
+- 📫 Reach me on Discord: Caffeine.js#0001
 - 😄 Pronouns: He/Him.
 - 🪟 Favourite OS: Windows 11
 
