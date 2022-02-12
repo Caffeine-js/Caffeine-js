@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him.
 - 🪟 Favourite OS: Windows 11
 
-<h3 align="center">A C++ (and Wev Dev?) Developer!</h3>
+<h3 align="center">A C++ (and Web?) Developer!</h3>
