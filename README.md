@@ -37,7 +37,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <br/>
 
-## :(
 ```
 :(
 My Brain Just Ran Into A Problem & Needs To Restart.
