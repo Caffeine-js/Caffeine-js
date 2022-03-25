@@ -42,5 +42,5 @@
 My Brain Just Ran Into A Problem & Needs To Restart.
 I'm Just Collecting Some Error Info, & Then I'll Restart For You.
 0% Complete
-              For More Information About This Issue & Possible Fixes, Search This Stop Code: Never_Gonna_Give_You_Up
+For More Information About This Issue & Possible Fixes, Search This Stop Code: Never_Gonna_Give_You_Up
 ```
